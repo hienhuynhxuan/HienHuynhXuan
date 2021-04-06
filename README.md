@@ -68,10 +68,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hienhuynhxuan&show_icons=true&locale=en" alt="hienhuynhxuan" /></p>
 
 <h3 align="left">Top Languages</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hienhuynhxuan)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hienhuynhxuan&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hienhuynhxuan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
