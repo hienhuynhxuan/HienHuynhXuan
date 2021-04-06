@@ -1,4 +1,4 @@
-(https://github.com/xuanhienhuynh/xuanhienhuynh/blob/main/banner.jpg)
+(https://github.com/hienhuynhxuan/hienhuynhxuan/blob/main/banner.jpg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hienhuynhxuan&label=Profile%20views&color=0e75b6&style=flat" alt="hienhuynhxuan" /> •  
