@@ -62,13 +62,16 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Top Languages</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hienhuynhxuan&langs_count=8)](https://github.com/hienhuynhxuan/github-readme-stats)
 
 
 <h3 align="left">Github Stats</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hienhuynhxuan&show_icons=true&locale=en" alt="hienhuynhxuan" /></p>
 
+<h3 align="left">Top Languages</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hienhuynhxuan)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hienhuynhxuan&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hienhuynhxuan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
