@@ -11,11 +11,11 @@ I'm Hien from Vietnam, and I do content on Devlopement. I really enjoy learning 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hienhuynhxuan" alt="hienhuynhxuan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hien_huynhx_uan" target="blank"><img src="https://img.shields.io/twitter/follow/hien_huynhx_uan?logo=twitter&style=for-the-badge" alt="hien_huynhx_uan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hien_huynh_xuan" target="blank"><img src="https://img.shields.io/twitter/follow/hien_huynh_xuan?logo=twitter&style=for-the-badge" alt="hien_huynhx_uan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hien_huynhx_uan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hien_huynhx_uan" height="30" width="40" /></a>
+<a href="https://twitter.com/hien_huynh_xuan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hien_huynh_xuan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hienhuynhxuan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hienhuynhxuan" height="30" width="40" /></a>
 </p>
 
