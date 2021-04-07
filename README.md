@@ -66,9 +66,8 @@
 
 <h3 align="left">Github Stats and GitHub Streak Stats</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=hienhuynhxuan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hienhuynhxuan&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hienhuynhxuan&show_icons=true&locale=en" alt="hienhuynhxuan" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hienhuynhxuan&" alt="hienhuynhxuan" /></p>
 
 <h3 align="left">Top Languages</h3>
