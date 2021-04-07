@@ -1,4 +1,4 @@
-[![13199803](https://github.com/hienhuynhxuan/hienhuynhxuan/blob/main/banner.jpg)](https://github.com/hienhuynhxuan?tab=repositories)
+[![13199803](https://github.com/hienhuynhxuan/hienhuynhxuan/blob/main/bannerg.jpg)](https://github.com/hienhuynhxuan?tab=repositories)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hienhuynhxuan&label=Profile%20views&color=0e75b6&style=flat" alt="hienhuynhxuan" /> •  
